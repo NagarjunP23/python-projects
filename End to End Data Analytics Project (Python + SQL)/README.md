@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
 
-<h3 align="center">End to End Data Analytics Project (Python + SQL)</h3>
+<h3 align="center">End to End Data Analytics Project (Python + SQL + Power BI)</h3>
 <p align="center">
 Data Analytics Project
 
@@ -15,7 +15,7 @@ Data Analytics Project
 
  ## About The Project
 
-This is and End to End Data Analytics Project using Python and SQL. 
+This is and End to End Data Analytics Project using Python, SQL and Power BI. 
 ![ETL Diagram](https://github.com/NagarjunP23/python-projects/assets/53596669/f84e41b4-247d-409f-aa93-b6420c474e37)
 
 - Get the data from Kaggle API using Python.
@@ -23,6 +23,11 @@ This is and End to End Data Analytics Project using Python and SQL.
 - Clean and Transform the Data.
 - Load the cleaned data into SQL Server.
 - Answer the Questions using SQL.
+
+  <p> Additionally I have created a Power BI Dashboard which highlights some of the key metrics. </p>
+
+  ![Order Report](https://github.com/NagarjunP23/python-projects/assets/53596669/379708a7-75af-4319-90ad-6493d1fc6d66)
+
 
 This project is inspired by Ankit Bansal. 
 You can checkout the Video tutorial here: https://www.youtube.com/watch?v=uL0-6kfiH3g
